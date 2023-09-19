@@ -167,7 +167,7 @@ form .row label {
   border: none;
   outline: none;
   border-radius: 5px;
-  color: #fff;
+  color: var(---clr--white);
   font-size: 17px;
-  background: var(--primaryColor);
+  background: var(--clr--darkblue);
 }
