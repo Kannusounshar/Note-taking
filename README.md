@@ -6,6 +6,6 @@ Built with
 -JAVASCRIPT
 -BOOTSTRAP
 
-You can view the live project here: https://symphonious-llama-412d57.netlify.app
+You can view the live project here: https://nimble-frangipane-00a1ed.netlify.app
 
 Solutin Link: https://github.com/Kannusounshar/Note-taking
